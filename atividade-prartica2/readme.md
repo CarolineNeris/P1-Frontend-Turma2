@@ -1,11 +1,11 @@
 # Sobre
 
-<p>Este repositório foi desenvolvido para adicionar a resolução dos exercícios da instrução prática 2 do módulo de Front End da Residência em Software promovido pela CEPEDI em parceria com a UESC.</p>
+<p>Esta pasta foi criada para incluir as soluções dos exercícios da segunda atividade prática do módulo de Front End da Residência em Software, realizada em colaboração entre o CEPEDI e a UESC.</p>
 
 # 📑Instruções práticas
 
 
-> Criação de um novo design para a página da web da UESC. A página deve ter dois designs diferentes de acordo com o tamanho da tela do dispositivo que a acessa. Para dispositivos com telas maiores que 500px deve ser levado em consideração o croqui da Figura 1. Para dispositivos com telas menores que 500px deve ser utilizado o croqui da Figura 2. 
+> Desenvolvimento de um novo layout para o site da UESC. O design terá duas versões distintas, adaptando-se ao tamanho da tela do dispositivo que o acessa. Dispositivos com telas maiores que 500px seguirão o esboço da Figura 1, enquanto dispositivos com telas menores que 500px utilizarão o esboço da Figura 2 
 
 <div align="center">
 
@@ -35,5 +35,5 @@
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/17802288?v=4" width=115><br><sub>Lucas dos Santos Silva</sub>](https://github.com/eulucasilva) | 
+| [<img src="https://avatars.githubusercontent.com/u/85597024?s=400&u=a2e62cbd29eecb1443a99a47115f3a8be2695be3&v=4" width=115><br><sub>Ana Caroline </sub>](https://github.com/CarolineNeris) | 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------:|
