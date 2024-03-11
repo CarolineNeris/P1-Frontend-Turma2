@@ -1,0 +1,19 @@
+.page-container {
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.no-data-found {
+    padding: 10px;
+    text-align: center;
+    color: #777;
+}
+
+.button-container {
+    margin-bottom: 20px;
+}
